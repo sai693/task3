@@ -1,0 +1,59 @@
+{
+    "details":{
+        "name":"GURGUBELLI SAI KUMAR",
+         "image":"PHOTO1.PNG",
+         "email":"gurugubellisaikumar68@gmail.com",
+         "number":"318126510L17",
+         "address":"VISAKHAPATNAM"
+         
+    },
+
+    "carrerobjective":{
+        "info1":"web developer"
+    },
+ 
+    "educationqualification":
+    [
+        {
+            "institute":"ANITS",
+            "degree":"B-tech",
+            "passoutyear":"2020",
+            "percentage":"95%"
+        },
+
+        {
+            "institute":"Goverenment Polytechnic college Anakapalli",
+            "degree":"diploma",
+            "passoutyear":"2018",
+            "percentage":"75%"       
+         },
+            
+            
+            {
+                "institute":"sri venkateswara public school",
+                "degree":"ssc",
+                "passoutyear":"2015",
+                "percentage":"78%"        }
+
+    ],
+
+     "tecniclskills":[
+
+        {
+            "title":"programming languages",
+            "info": ["c,c++,java"]   
+        },
+
+         {
+            "title":"databases",
+            "info": ["oracle,sql,mysql"]    
+         },
+
+           {
+              "title":"operating system",
+              "info": ["unix,windows,ubuntu"]    
+           }
+           ]
+
+
+}
